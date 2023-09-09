@@ -5,7 +5,7 @@ date:   2023-09-05 16:19:12 +0800
 categories: jekyll update
 ---
 
-[技术方向](https://)
+[技术方向1](https://)
 [思想火花](https://)
 [兴趣爱好](https://)
 
