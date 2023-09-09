@@ -30,7 +30,9 @@ twitter_username: TianKehan
 github_username:  TianKehan
 
 # Build settings
-theme: minima
+#theme: minima
+#theme: jekyll-theme-clean-blog 
+remote_theme: sighingnow/jekyll-gitbook
 plugins:
   - jekyll-feed
 
@@ -53,3 +55,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#host: 0.0.0.0
+port: 4001
