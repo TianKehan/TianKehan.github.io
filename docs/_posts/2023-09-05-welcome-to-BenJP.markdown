@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "我的方向!"
+title:  "我的方向1!"
 date:   2023-09-05 16:19:12 +0800
 categories: jekyll update
 ---
