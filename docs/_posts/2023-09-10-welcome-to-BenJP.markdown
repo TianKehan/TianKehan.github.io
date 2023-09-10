@@ -16,6 +16,8 @@ categories: jekyll update
 
  * [1.3强调](#1.3)
 
+[[ruan jian]]
+ying = [neirong](#mubiao "biao")
 
 
     
@@ -55,7 +57,7 @@ categories: jekyll update
 
 这是第一段第二节
 
-<h3 id="1.333">1.3强调</h3>
+<h3 id="1.3">1.3强调</h3>
 
 这是第一段第三节
 
