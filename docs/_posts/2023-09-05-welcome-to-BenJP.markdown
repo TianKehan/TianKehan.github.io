@@ -9,11 +9,11 @@ categories: jekyll update
 * [2.思想火花](#2)
 * [3.兴趣爱好](#3)
 
-* [1.技术方向](#1)
+<h2 id="1">1.技术方向</h2>
 
- * [1.1 软件](#1.1)
+ * [1 软件](#1)
 
- * [1.2 硬件](#1.2)
+ * [2 硬件](#1)
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
