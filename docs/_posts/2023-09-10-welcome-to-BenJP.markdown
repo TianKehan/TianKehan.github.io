@@ -19,7 +19,7 @@ categories: jekyll update
 
 
     
-    <h2 id="1">1.语法示例</h2>
+<h2 id="1">1.语法示例</h2>
 
 这是第一段
 
@@ -55,7 +55,7 @@ categories: jekyll update
 
 这是第一段第二节
 
-<h3 id="1.1">1.3强调</h3>
+<h3 id="1.333">1.3强调</h3>
 
 这是第一段第三节
 
