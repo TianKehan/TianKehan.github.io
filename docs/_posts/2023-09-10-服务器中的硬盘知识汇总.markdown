@@ -1,1 +1,8 @@
 #服务器硬盘知识汇总
+
+[深入理解SSD:固态存储特性与实践_元存的博客-CSDN博客](https://blog.csdn.net/vagrant0407/category_11985417.html)
+
+
+
+![](assets/20230911_044944_large.jfif)
+
