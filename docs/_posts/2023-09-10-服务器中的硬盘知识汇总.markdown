@@ -1,8 +1,26 @@
 #服务器硬盘知识汇总
 
-[深入理解SSD:固态存储特性与实践_元存的博客-CSDN博客](https://blog.csdn.net/vagrant0407/category_11985417.html)
+[[SSD综述 1.4] SSD固态硬盘的结构和原理导论_ssd结构_元存的博客-CSDN博客](https://blog.csdn.net/vagrant0407/article/details/128986172)
+[[深入理解SSD 为SSD编程] SSD的架构和基准_ssd 架构_元存的博客-CSDN博客](https://blog.csdn.net/vagrant0407/article/details/129251887)
+[[深入理解SSD 为SSD编程] SSD的架构和基准_ssd 架构_元存的博客-CSDN博客](https://blog.csdn.net/vagrant0407/article/details/129251887)
+[[固态硬盘原理大揭秘] 知乎 ](https://zhuanlan.zhihu.com/p/106150566)
+[SSD(固态硬盘)简介 [金步国] (jinbuguo.com)](https://www.jinbuguo.com/storage/ssd_intro.html)
+[三种 Linux RAID 简要说明 [金步国] (jinbuguo.com)](https://www.jinbuguo.com/storage/raid_types.html)
+[NAND FLASH的工作原理_nand flash工作原理_Martin_良文的博客-CSDN博客](https://blog.csdn.net/maliangwen_12138/article/details/125028026)
+[NVMe SSD 学习总结 03： 浅析SSD技术基础NAND-Flash原理（NANA结构、工作原理、写放大）_ssd 颗粒 控制器_蓝色的海008的博客-CSDN博客](https://blog.csdn.net/yanghuichan/article/details/126219270)
+[NVMe SSD 学习_蓝色的海008的博客-CSDN博客](https://blog.csdn.net/yanghuichan/category_11946871.html)
 
+[全球存储简史（第二版）上篇](https://xueqiu.com/6280759899/130088527)
 
+哔哩上
 
-![](assets/20230911_044944_large.jfif)
+深入理解闪存！固态硬盘如何存储一位数据？NAND FLASH是怎么擦除和写入的？FLASH的工作原理！
+NAND Flash是如何工作的：如何从TLC单元中读取数据
+你的U盘，其实是个监狱｜flash存储原理：固态硬盘，U盘，SD卡
+nand flash 如何工作中英文字幕版
+3D NAND flash如何工作的，直观动画解析
+智能手机数据如何储存-How do SSDs Work How does your Smartphone store data
+【3D NAND||转载】三维存储器基础知识介绍-How do SSDs Work
+芯片里起高楼：详解3D NAND闪存
+9款旗舰PCIe 4.0 SSD性能横评：性能拔尖、让人大跌眼镜都是老牌子？
 

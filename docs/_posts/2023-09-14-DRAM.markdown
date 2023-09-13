@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "技术方向x!"
+date:   2023-09-14 3:48:12 +0800
+categories: jekyll update
+---
+
+哔哩
+
+1. 计算机是如何工作的？探索主内存，以DDR5为例
+2. 中国存储行业发展现状：DRAM与NAND Flash市场发展态势分析
+3. 电脑的缓存和内存说的是什么？DRAM和SRAM的区别？它们是如何存
+
+### <font size=6>博客链接</font>
+
+
+
+
+[深入解析内存原理：DRAM的基本原理_dram读写原理_茫茫大士的博客-CSDN博客](https://blog.csdn.net/chenzhen1080/article/details/103240783)
+
+
+
