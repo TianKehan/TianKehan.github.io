@@ -7,3 +7,4 @@ categories: jekyll update
 
 [Nginx+Docker+Jekyll+阿里云ECS+备案搭建博客全记录](http://www.taodudu.cc/news/show-6347828.html?action=onClick)
 [Docker 常用命令  ](https://www.cnblogs.com/RainFate/p/16585807.html)
+[笔记软件Logseq快速入门-安装/日记/块](https://zhuanlan.zhihu.com/p/438658500)
