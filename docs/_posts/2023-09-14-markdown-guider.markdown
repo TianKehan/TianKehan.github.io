@@ -17,4 +17,5 @@ categories: zjp update
 3. [jekyll-gitbook github链接以及教程](https://github.com/sighingnow/jekyll-gitbook)
 4. [jekyll官网](https://www.jekyll.com.cn/)
 5. [为 Markdown 生成 TOC 的 Vim 插件](https://cloud.tencent.com/developer/article/1964694)
+6. [Jekyll 生成文章目录树配置](http://www.yuyanba.com/default.aspx/did21122)
 
