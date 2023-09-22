@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "技术方向x!"
+title:  "DRAM technology"
 date:   2023-09-14 3:48:12 +0800
-categories: jekyll update
+categories: 技术方向---硬件
 ---
 
 哔哩
@@ -15,6 +15,7 @@ categories: jekyll update
 
 [深入解析内存原理：DRAM的基本原理_dram读写原理_茫茫大士的博客-CSDN博客](https://blog.csdn.net/chenzhen1080/article/details/103240783)
 
-[[DRAM的结构原理剖析_dram结构_内存故障检测定位隔离的博客-CSDN博客]](./DRAM的结构原理剖析_dram结构_内存故障检测定位隔离的博客-CSDN博客.markdown)
+[DRAM的结构原理剖析_dram结构_内存故障检测定位隔离的博客-CSDN博客]({% post_url DRAM的结构原理剖析_dram结构_内存故障检测定位隔离的博客-CSDN博客 %})
 
+[Link to a post]({{ site.baseurl }}{% link _posts/_docs_resources/md/DRAM的结构原理剖析_dram结构_内存故障检测定位隔离的博客-CSDN博客.markdown %})
 

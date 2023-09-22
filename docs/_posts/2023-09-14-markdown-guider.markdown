@@ -20,4 +20,6 @@ categories: zjp update
 6. [Jekyll 生成文章目录树配置](http://www.yuyanba.com/default.aspx/did21122)
 7. [jekyll   Supported themes](https://pages.github.com/themes/)
 8. [jekyll github tutorial](https://blog.csdn.net/enthan809882/article/details/129090669)
+9. [Jekyll使用教程笔记 六](https://juejin.cn/post/6844903632882630664)
+10. 
 
