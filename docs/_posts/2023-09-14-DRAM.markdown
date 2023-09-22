@@ -13,10 +13,7 @@ categories: jekyll update
 
 ### <font size=6>博客链接</font>
 
-
-
-
 [深入解析内存原理：DRAM的基本原理_dram读写原理_茫茫大士的博客-CSDN博客](https://blog.csdn.net/chenzhen1080/article/details/103240783)
-
+[[DRAM的结构原理剖析_dram结构_内存故障检测定位隔离的博客-CSDN博客]](./DRAM的结构原理剖析_dram结构_内存故障检测定位隔离的博客-CSDN博客.markdown)
 
 
