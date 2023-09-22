@@ -17,5 +17,6 @@ categories: 技术方向---硬件
 
 [DRAM的结构原理剖析_dram结构_内存故障检测定位隔离的博客-CSDN博客]({% post_url DRAM的结构原理剖析_dram结构_内存故障检测定位隔离的博客-CSDN博客 %})
 
-[Link to a post]({{ site.baseurl }}{% link _posts/_docs_resources/md/DRAM的结构原理剖析_dram结构_内存故障检测定位隔离的博客-CSDN博客.markdown %})
+[Link to a post]({% link /docs_resources/md/DRAM的结构原理剖析_dram结构_内存故障检测定位隔离的博客-CSDN博客.markdown %})
+
 

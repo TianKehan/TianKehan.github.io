@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "DRAM technology"
+date:   2023-09-14 3:48:12 +0800
+categories: 技术方向---硬件---dram
+---
+
+
 文字参考：
 
 [https://www.cnblogs.com/yilang/p/11103061.html](https://www.cnblogs.com/yilang/p/11103061.html "https://www.cnblogs.com/yilang/p/11103061.html")
