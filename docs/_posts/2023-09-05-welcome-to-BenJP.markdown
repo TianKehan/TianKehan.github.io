@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "我的方向1!"
+title:  "Blog地图!"
 date:   2023-09-05 16:19:12 +0800
 categories: jekyll update
 ---
@@ -16,7 +16,5 @@ categories: jekyll update
  * [2 硬件](#1)
 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
 

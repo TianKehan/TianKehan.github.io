@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "芯片设计信息汇总"
+title:  "芯片知识汇总"
 date:   2023-09-21 16:48:12 +0800
 categories: zjp update
 ---

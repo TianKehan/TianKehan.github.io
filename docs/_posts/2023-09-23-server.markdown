@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Server知识汇总"
+date:   2023-09-21 16:48:12 +0800
+categories: zjp update
+---
+
+CPU
+---
+
+DRAM
+----
+
+1. [RAM的结构原理剖析 ]({% link myfiles/Server/DRAM/DRAM的结构原理剖析.markdown %})
+2. [深入解析内存原理：DRAM的基本原理_dram读写原理-CSDN](https://blog.csdn.net/chenzhen1080/article/details/103240783)
+
+DISK
+----
+1. [硬盘知识汇总 ]({% link myfiles/Server/Disk/硬盘知识汇总.markdown %})
+   
+
+Network
+-------
+
+PCIE
+-------
+1. [PCIE on ARM ]({% link myfiles/Server/PCIE/PCIE-ON-ARM.markdown %})
+

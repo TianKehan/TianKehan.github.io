@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DRAM technology"
+title:  "DRAM的结构原理剖析"
 date:   2023-09-14 3:48:12 +0800
 categories: 技术方向---硬件---dram
 ---
