@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Life plan"
+date:   2023-09-24 17:00:01 +0800
+categories: zjp update
+---
+
+
+Jekyll
+----
+
+1. [Jekyll guider ]({% link myfiles/IT/blog/jekyll/jekyll_guider.markdown %})
+
+
+

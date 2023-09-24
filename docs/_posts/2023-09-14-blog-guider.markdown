@@ -6,10 +6,14 @@ categories: zjp update
 ---
 
 
-Jekyll
-----
+1. [Blog Collection ]({% link myfiles/IT/blog/blog_colloctions.markdown %})
+2. [Jekyll guider ]({% link myfiles/IT/blog/jekyll/jekyll_guider.markdown %})
+3. [Markdown guider]({% link myfiles/IT/markdown/markdown_guider.markdown %})
+4. [Docker guider]({% link myfiles/IT/docker/docker_guider.markdown %})
+5. [Wx gzh guider]({% link myfiles/IT/wx_gzh/wx-gzh_guider.markdown %})  
+6. [Python Collection]({% link myfiles/IT/Python/python_guider.markdown %})  
+7. [Logseq guider ]({% link myfiles/IT/blog/Logseq/logseq_guider.markdown %})
 
-1. [Jekyll guider ]({% link myfiles/IT/blog/jekyll/jekyll_guider.markdown %})
 
 
 

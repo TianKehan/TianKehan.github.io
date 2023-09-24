@@ -15,4 +15,5 @@ categories: zjp update
 8. [jekyll-docs](https://jekyllrb.com/docs/home)
 9. [jekyll-gh](https://github.com/jekyll/jekyll)
 10. [jekyll-talk](https://talk.jekyllrb.com/)
+11. [jekyll-git-book github](https://github.com/sighingnow/jekyll-gitbook)
 
