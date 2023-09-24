@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Web technology"
-date:   2023-09-03 16:19:12 +0800
+title:  "Cname technology"
+date:   2023-09-25 16:19:12 +0800
 categories: jekyll update
 ---
 

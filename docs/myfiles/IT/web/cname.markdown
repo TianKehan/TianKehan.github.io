@@ -21,7 +21,7 @@ https://console.dnspod.cn/
 https://console.cloud.tencent.com/domain/all-domain/all
 
 
-![](assets/2023-09-25-05-30-02.png)
+![](assets/2023-09-25-07-19-31.png)
 
 我的域名 - DNSPod-免费智能DNS解析服务商-电信_网通_教育网,智能DNS
 https://console.dnspod.cn/dns/list
