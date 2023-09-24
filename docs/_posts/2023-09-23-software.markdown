@@ -10,5 +10,8 @@ Database
 1. [TiDB Blog ，可以在上面搜索ARM](https://www.pingcap.com/blog/)
 2. [TiDB：How I Found a Go Issue on ARM that Crashed the Database Server ](https://www.pingcap.com/blog/how-i-found-a-go-issue-on-arm-that-crashed-the-database-server/)
 
+BIOS
+---
+1. [Alder Lake CPU泄露的UEFI BIOS源代码](https://git.tcp.direct/TheParmak/ICE_TEA_BIOSm)
 
  

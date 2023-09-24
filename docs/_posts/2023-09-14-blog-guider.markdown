@@ -13,6 +13,7 @@ categories: zjp update
 5. [Wx gzh guider]({% link myfiles/IT/wx_gzh/wx-gzh_guider.markdown %})  
 6. [Python Collection]({% link myfiles/IT/Python/python_guider.markdown %})  
 7. [Logseq guider ]({% link myfiles/IT/blog/Logseq/logseq_guider.markdown %})
+8. [Web technology]({% link myfiles/IT/web/web_guider.markdown %}) 
 
 
 
