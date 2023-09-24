@@ -12,8 +12,9 @@ categories: zjp update
 5. [jekyll   Supported themes](https://pages.github.com/themes/)
 6. [jekyll github tutorial](https://blog.csdn.net/enthan809882/article/details/129090669)
 7. [Jekyll使用教程笔记 六](https://juejin.cn/post/6844903632882630664)
-8. [jekyll-docs](https://jekyllrb.com/docs/home)
-9. [jekyll-gh](https://github.com/jekyll/jekyll)
+8. [jekyll-docs jelly tutorial](https://jekyllrb.com/docs/home)
+9. [jekyll-gh github](https://github.com/jekyll/jekyll)
 10. [jekyll-talk](https://talk.jekyllrb.com/)
 11. [jekyll-git-book github](https://github.com/sighingnow/jekyll-gitbook)
+12. [jekyll中文文档-csdn](https://blog.csdn.net/hjf789/category_12270551.html)
 
