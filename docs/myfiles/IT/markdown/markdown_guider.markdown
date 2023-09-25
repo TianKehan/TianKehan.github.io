@@ -7,6 +7,7 @@ categories: zjp update
 综合教程
 -------------
 1. [Markdown 官方教程](https://markdown.com.cn/)
+2. [Markdown语法说明]({% link myfiles/IT/markdown/Markdown语法说明.md %})
 
 技能点
 -------------

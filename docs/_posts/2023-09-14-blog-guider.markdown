@@ -14,6 +14,7 @@ categories: zjp update
 6. [Python Collection]({% link myfiles/IT/Python/python_guider.markdown %})  
 7. [Logseq guider ]({% link myfiles/IT/blog/Logseq/logseq_guider.markdown %})
 8. [Web technology]({% link myfiles/IT/web/web_guider.markdown %}) 
+9. [Hexo guider]({% link myfiles/IT/blog/hexo/hexo_guider.markdown %})
 
 
 

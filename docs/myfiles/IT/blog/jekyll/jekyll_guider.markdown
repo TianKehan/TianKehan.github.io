@@ -17,4 +17,5 @@ categories: zjp update
 10. [jekyll-talk](https://talk.jekyllrb.com/)
 11. [jekyll-git-book github](https://github.com/sighingnow/jekyll-gitbook)
 12. [jekyll中文文档-csdn](https://blog.csdn.net/hjf789/category_12270551.html)
+13. [Jekyll 配置访问地址端口的问题]({% link myfiles/IT/blog/jekyll/Jekyll配置访问地址端口的问题.md %})
 
