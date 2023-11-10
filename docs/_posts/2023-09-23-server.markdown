@@ -1,28 +1,33 @@
 ---
 layout: post
 title:  "Server知识汇总"
-date:   2023-09-21 16:48:12 +0800
+date:   2023-11-11 7:00:12 +0800
 categories: zjp update
 ---
 
 CPU
 ---
 
+1. [Intel_CPU参数解读]({% link myfiles/Server/CPU/Intel_CPU参数解读.md %})
+2. [ARM_PMU]({% link myfiles/Server/CPU/ARM_PMU.md%})
+
 DRAM
 ----
 
 1. [RAM的结构原理剖析 ]({% link myfiles/Server/DRAM/DRAM的结构原理剖析.markdown %})
 2. [深入解析内存原理：DRAM的基本原理_dram读写原理-CSDN](https://blog.csdn.net/chenzhen1080/article/details/103240783)
+3. [DDR/DDR2/DDR3/DDR4/DDR5介绍-csdn](https://blog.csdn.net/u014689845/category_9599656.html)
 
 DISK
 ----
+
 1. [硬盘知识汇总 ]({% link myfiles/Server/Disk/硬盘知识汇总.markdown %})
-   
 
 Network
 -------
 
 PCIE
--------
+----
+
 1. [PCIE on ARM ]({% link myfiles/Server/PCIE/PCIE-ON-ARM.markdown %})
 

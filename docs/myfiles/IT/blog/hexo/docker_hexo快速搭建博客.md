@@ -4,8 +4,8 @@ title:  "docker+hexo快速搭建博客网站"
 date:   2023-09-14 5:14:12 +0800
 categories: zjp update
 ---
-
 #docker+hexo快速搭建博客网站
+
 ## docker部署node容器
 
 为方便调试，本文通过docker部署node容器进行本地测试，dockerfile如下：
@@ -46,13 +46,15 @@ ENTRYPOINT ["docker-entrypoint.sh"]
 CMD [ "node" ]
 ```
 
--   制作镜像
+- 制作镜像
+
+  docker build -f Dockfile -t hexo-debug:node14 .
 
 ```
 docker build -t hexo-debug:node14 .
 ```
 
--   启动hexo调试容器
+- 启动hexo调试容器
 
 ```
 # 启动容器，并挂载目录
@@ -60,7 +62,7 @@ cd ~/app/hexo-debug
 docker run -dit  -p 4000:4000 --name hexo-debug -v ${PWD}/docker-mnt:/hexo hexo-debug:node14
 ```
 
--   进入容器
+- 进入容器
 
 ```
 # 查看容器列表
@@ -72,7 +74,7 @@ docker exec -it hexo-debug bash
 
 ## 初始化[hexo](https://so.csdn.net/so/search?q=hexo&spm=1001.2101.3001.7020)
 
--   初始化hexo
+- 初始化hexo
 
 ```
 # 初始化命令，blog为文件夹名
@@ -90,8 +92,9 @@ npm install
 # 启动本地服务器
 hexo s -g 
 ```
+
 ![](assets/2023-09-25-22-07-26.png)
 
--   在控制台开放4000端口，访问测试
+- 在控制台开放4000端口，访问测试
 
 ![](assets/2023-09-25-22-07-43.png)

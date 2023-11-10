@@ -9,3 +9,4 @@ categories: jekyll update
 2. [微信公众号文档首页](https://developers.weixin.qq.com/doc/offiaccount/Getting_Started/Overview.html)
 3. [微信公众号配置例子]({% link myfiles/IT/wx_gzh/微信公众号配置例子问题.md %})
 4. [微信公众平台接口调试工具获取access_token如何填写body参数]({% link myfiles/IT/wx_gzh/微信公众平台接口调试工具获取access_token如何填写body参数.md %})
+5. [微信公众号开通微信支付]({% link myfiles/IT/wx_gzh/公众号开通微信支付.md %})
